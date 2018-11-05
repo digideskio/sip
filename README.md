@@ -82,9 +82,9 @@
   <i>Contributed (wadidin)</i>
   <br>
 
-<br><hr><br>
+<br><hr>
 
 <h3>Database : MySQL</h3>
 <hr>
 <h3>PHP Version : PHP 5</h3>
-
+<hr>
