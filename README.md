@@ -11,31 +11,31 @@
    <h4>Helper :</h4>
 
    - Sesi Helper<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
    - Log Helper<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
    - Engine Helper<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
    - Module Helper<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
    - Pranata Helper<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
    - Security Helper<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
    - My Helper<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
      <br>
@@ -43,19 +43,19 @@
    <h4>Libraries :</h4>
 
    - MyLibrary<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
    - Templatebe (BackEnd Template)<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
    - Templatefe (Front Template)<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
    - BreadCrumbs<br>
-     <i>Contribute (wadidin)</i>
+     <i>Contributed (wadidin)</i>
      <br>
 
 <br><hr><br>
@@ -63,23 +63,23 @@
 <h3><b>Fixed :</b></h3>
 
 - Sign In<br>
-  <i>Contribute (wadidin)</i>
+  <i>Contributed (wadidin)</i>
   <br>
 
 - Sign Out<br>
-  <i>Contribute (wadidin)</i>
+  <i>Contributed (wadidin)</i>
   <br>
 
 - Dashboard<br>
-  <i>Contribute (wadidin)</i>
+  <i>Contributed (wadidin)</i>
   <br>
 
 - Pengaturan -> Web<br>
-  <i>Contribute (wadidin)</i>
+  <i>Contributed (wadidin)</i>
   <br>
 
 - Pengaturan -> Module<br>
-  <i>Contribute (wadidin)</i>
+  <i>Contributed (wadidin)</i>
   <br>
 
 <br><hr><br>
